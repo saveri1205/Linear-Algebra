@@ -1,6 +1,7 @@
 disp('Please enter the matrix A');
 
 a11=input("Enter a11: ");
+
 a12=input("Enter a12: ");
 a13=input("Enter a13: ");
 a21=input("Enter a21: ");
